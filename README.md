@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="./ImagesForReadMe/Face-Recognition-Attendance-System-Logo.jpg" width=660px height=360px>
-  <br>
-  <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-</p>
+
 
 # Face-recognition-based-attendance-system-project
-
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+</p>
 
 A python GUI integrated attendance system using face recognition to recognize multiple faces at one time and subsequently mark attendance in csv file.
 
