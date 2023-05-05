@@ -55,7 +55,7 @@ def contact():
     #Create a Label to display the link
     link = Label(win, text="Click Here for Source Code",font=('Helveticabold', 15), fg="blue", cursor="hand2")
     link.pack()
-    link.bind("<Button-1>", lambda e:callback("https://github.com/Sushavan20/Face-recognition-based-attendance-system-project"))
+    link.bind("<Button-1>", lambda e:callback("https://github.com/Sushavan20/Face-Recognition-Based-Attendance-System-Final"))
     link.place(x=210,y=180)
 
     win.mainloop()
